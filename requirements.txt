@@ -1,0 +1,14 @@
+streamlit>=1.50
+numpy
+scipy
+pandas
+plotly
+scikit-fem
+pyamg
+matplotlib
+openpyxl
+pillow
+gmsh
+meshio
+tabulate
+pytest
